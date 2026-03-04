@@ -56,11 +56,6 @@ First of all, thanks for visiting my profile. Here's what you should know about 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHIRVADBM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHIRVADBM&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ASHIRVADBM&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
