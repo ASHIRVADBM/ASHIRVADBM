@@ -6,7 +6,6 @@ First of all, thanks for visiting my profile. Here's what you should know about 
 
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, and building intelligent systems** that solve real problems.
 - 💻 My tech stack revolves around **Python, Jupyter, Scikit-learn, LangChain, FAISS, Streamlit, and RAG pipelines**.
-- 🔐 Deeply interested in **Cybersecurity** — from ransomware behaviour analysis to threat detection using ML.
 - 🧠 Always exploring **LLMs, Agentic AI, and Retrieval-Augmented Generation (RAG)** for real-world applications.
 - 🤝 Always up to collaborate on **Open-Source AI/ML Projects** and contribute to the community.
 - 📚 I build repositories aimed at **students and developers** — from NCERT RAG assistants to disease predictors.
@@ -47,9 +46,7 @@ First of all, thanks for visiting my profile. Here's what you should know about 
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔐 Ransomware Detection](https://github.com/ASHIRVADBM/ransomware-detection-and-behaviour-analysis) | ML-based ransomware behaviour analysis & detection | Python, ML |
 | [🩺 Multiple Disease Predictor](https://github.com/ASHIRVADBM/Multiple-Disease-Predictor) | Predicts multiple diseases from health indicators | Jupyter, Scikit-learn |
-| [📚 NCERT RAG](https://github.com/ASHIRVADBM/NCERT--RAG) | RAG-based Q&A over NCERT educational content | LangChain, FAISS |
 | [🤖 Agentic RAG Educational Assistant](https://github.com/ASHIRVADBM/Agentic-RAG-Based-Educational-Assistant) | Agentic AI assistant for education | Python, LangChain |
 | [📊 Insurance Analytics Dashboard](https://github.com/ASHIRVADBM/Insurance-Analytics-Dashboard) | Analytics & visualizations for insurance data | Python |
 
