@@ -65,8 +65,8 @@ First of all, thanks for visiting my profile. Here's what you should know about 
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🩺 Multiple Disease Predictor](https://github.com/ASHIRVADBM/Multiple-Disease-Predictor) | Predicts multiple diseases from health indicators | Jupyter, Scikit-learn |
 | [🤖 Agentic RAG Educational Assistant](https://github.com/ASHIRVADBM/Agentic-RAG-Based-Educational-Assistant) | Agentic AI assistant for education | Python, LangChain |
+| [🩺 Multiple Disease Predictor](https://github.com/ASHIRVADBM/Multiple-Disease-Predictor) | Predicts multiple diseases from health indicators | Jupyter, Scikit-learn |
 | [📊 Insurance Analytics Dashboard](https://github.com/ASHIRVADBM/Insurance-Analytics-Dashboard) | Analytics & visualizations for insurance data | Python |
 
 ---
